@@ -1,0 +1,7 @@
+2025-12-30T14:58:34.514787+0530 | ERROR | APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-12-30T15:04:03.046335+0530 | ERROR | APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-12-30T15:10:33.865993+0530 | ERROR | APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-12-30T15:14:56.035066+0530 | ERROR | APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-12-30T15:17:07.152995+0530 | ERROR | APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-12-30T15:19:12.712825+0530 | ERROR | APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-12-30T15:28:33.113381+0530 | INFO | {'orderId': 11262790102, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ1fecb752cc30fa96c5918d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1767088712731}
